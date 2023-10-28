@@ -8,10 +8,15 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required libraries and read the dataframe.
+
+2.Assign hours to X and scores to Y.
+
+3.Implement training set and test set of the dataframe
+
+4.Plot the required graph both for test data and training data.
+
+5.Find the values of MSE , MAE and RMSE.
 
 ## Program:
 ```
@@ -112,10 +117,15 @@ print("RMSE= ",rmse)
 [17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
  20.91914167 78.09382734 69.37226512]
 [20 27 69 30 62 35 24 86 76]
-```
-![Screenshot 2023-09-03 110318](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/0d2dac6e-50c8-4366-8104-776018ebae3d)
 
-![Screenshot 2023-09-03 110309](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/a9ff73b9-2f7b-4298-a293-3931705e558f)
+```
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/c37d22c0-a3f6-4645-bb4c-a9daa02f6bb4)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/9b80e491-0610-49e4-bdbb-689359d00932)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/5c676e5c-a0b9-4e22-b798-1e76f1c5e446)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/28b35b48-e7c1-4e63-9f1c-d2b4d57a2919)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/9705b77e-db67-4c17-a70b-ef8c968b0944)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/f6e3ede1-a390-4b66-9f2d-c10d49a7ff09)
+![image](https://github.com/Bala1511/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680410/65b110b2-4edb-4d25-8a32-691f054340d4)
 
 
 ## Result:
